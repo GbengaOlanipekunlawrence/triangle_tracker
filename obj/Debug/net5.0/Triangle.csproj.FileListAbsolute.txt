@@ -1,0 +1,16 @@
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.AssemblyInfo.cs
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.exe
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.deps.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.runtimeconfig.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.runtimeconfig.dev.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\ref\Triangle.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\bin\Debug\net5.0\Triangle.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\ref\Triangle.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\AceduPro\triangle\obj\Debug\net5.0\Triangle.genruntimeconfig.cache

@@ -1,32 +1,61 @@
+// int i = 10, j = 20;
+//
+// if (i != j)
+// {
+//     if (i < j)
+//     {
+//         Console.WriteLine("i is less than j");
+//     }
+//     else if (i > j)
+//     {
+//        Console.WriteLine("i is greater than j");
+//     }
+// }
+// else
+//     Console.WriteLine("i is equal to j");
+//
+
+
+
+
+
+
+
 using System;
-
-namespace Triangle
+  class Triangle
 {
-    class Program
-    {
-    static void Main(string[] args)
+    static void Main()
     {
 
-      Console.WriteLine("Ping Pong");
-      Console.WriteLine("Please Enter A Number");
-      string userNumber = Console.ReadLine();
-      int number = int.Parse(userNumber);
-      for (int i = 1; i <= number; i++)
-      {
-        if (i % 3 == 0 && i % 5 == 0)
+      Console.WriteLine("To test triagles sides");
+      string stringFirstNumber = Console.ReadLine();
+        string stringSecondNumber = Console.ReadLine();
+          string stringThirdNumber = Console.ReadLine();
+
+
+      int firstNumber = int.Parse(stringFirstNumber);
+      int secondNumber = int.Parse(stringSecondNumber);
+        int thirdNumber = int.Parse(stringThirdNumber);
+
+    {
+        if (firstNumber == secondNumber && secondNumber == thirdNumber && thirdNumber == firstNumber )
         {
-          Console.WriteLine("Ping Pong");
+          Console.WriteLine("Equilateral");
         }
-        else if (i % 3 == 0)
+        else if (firstNumber == secondNumber || secondNumber == thirdNumber || thirdNumber == firstNumber)
         {
-          Console.WriteLine("Ping");
+          Console.WriteLine("Isosceles");
         }
-        else if (i % 5 == 0)
+        else if (firstNumber + secondNumber <= thirdNumber || secondNumber + thirdNumber <= firstNumber || firstNumber + thirdNumber <= secondNumber)
         {
-          Console.WriteLine("Pong");
+          Console.WriteLine("Cannot Form a Triangle");
         }
-        else
+
+        else if (firstNumber != secondNumber && secondNumber != thirdNumber &&  thirdNumber != firstNumber)
         {
-          Console.WriteLine(i);
+          Console.WriteLine("Scalene");
         }
-      }
+        Main();
+    }
+  }
+}
